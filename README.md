@@ -60,4 +60,13 @@ Wenn Du dein Spiel bei der Dauerausstellung "GameZone" am Tag der Medien sehen m
 
 ## How to play
 * leider konnte ich keine pages-version des Spiels erstellen, Sie müssen sich daher die Version hier (-> https://github.com/tobifischer/PRIMA_AbgabeSoSe21) herunterladen um das Spiel zu Testen
-* Man guckt sich mit dem Bewegen der Maus um und lädt den Schlag mit der Taste "W" auf, die Steuerung ist aber auch nochmal im Spiel selber sichtbar
+
+## - Spielanleitung -
+* Steuerung:
+
+* W - Schlag aufladen
+* Maus - Umgucken + Zielen
+* (die Steuerung ist aber auch nochmal im Spiel selber sichtbar)
+
+## Ziel:
+* Ziel des Spiels ist es mit so wenig Schlaegen wie moeglich das Ziel zu erreichen.
