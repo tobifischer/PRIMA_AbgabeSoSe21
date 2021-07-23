@@ -53,3 +53,8 @@ Wenn Du dein Spiel bei der Dauerausstellung "GameZone" am Tag der Medien sehen m
 * Untertitel (max 40 Zeichen), der Menschen zum Spielen animiert
 * Kurzbeschreibung (max 250 Zeichen), die kurz erklärt wie zu spielen ist
 * Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
+
+## Meine Abgabe
+* Meine Abgabe ist ein Golf-Spiel basierend auf dem erfolgreichen Spiel "Golf with your friends". 
+* Man guckt sich mit dem Bewegen der Maus um und lädt den Schlag mit der Taste "W" auf.
+* Eine PDF mit der Chackliste und Konzept ist hochgeladen unter dem Titel "GolfWithYorFudge"
