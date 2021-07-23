@@ -55,6 +55,9 @@ Wenn Du dein Spiel bei der Dauerausstellung "GameZone" am Tag der Medien sehen m
 * Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
 
 ## Meine Abgabe
-* Meine Abgabe ist ein Golf-Spiel basierend auf dem erfolgreichen Spiel "Golf with your friends". 
-* Man guckt sich mit dem Bewegen der Maus um und lädt den Schlag mit der Taste "W" auf.
-* Eine PDF mit der Chackliste und Konzept ist hochgeladen unter dem Titel "GolfWithYorFudge"
+* Meine Abgabe ist ein Golf-Spiel basierend auf dem erfolgreichen Spiel "Golf with your friends" und ist unter https://github.com/tobifischer/PRIMA_AbgabeSoSe21 zu finden.
+* Eine PDF mit der Chackliste und Konzept ist hochgeladen unter dem Titel "GolfWithYorFudge" (https://github.com/tobifischer/PRIMA_AbgabeSoSe21/blob/main/GolfWithYourFudge.pdf)
+
+## How to play
+* leider konnte ich keine pages-version des Spiels erstellen, Sie müssen sich daher die Version hier (-> https://github.com/tobifischer/PRIMA_AbgabeSoSe21) herunterladen um das Spiel zu Testen
+* Man guckt sich mit dem Bewegen der Maus um und lädt den Schlag mit der Taste "W" auf, die Steuerung ist aber auch nochmal im Spiel selber sichtbar
