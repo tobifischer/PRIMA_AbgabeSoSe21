@@ -1,0 +1,11 @@
+- Spielanleitung -
+
+Steuerung:
+
+W - Schlag aufladen
+Maus - Umgucken + Zielen
+
+Ziel:
+
+Ziel des Spiels ist es mit so wenig Schlaegen wie moeglich das Ziel zu erreichen.
+
