@@ -59,7 +59,7 @@ Wenn Du dein Spiel bei der Dauerausstellung "GameZone" am Tag der Medien sehen m
 * Eine PDF mit der Chackliste und Konzept ist hochgeladen unter dem Titel "GolfWithYorFudge" (https://github.com/tobifischer/PRIMA_AbgabeSoSe21/blob/main/GolfWithYourFudge.pdf)
 
 ## How to play
-* leider konnte ich keine pages-version des Spiels erstellen, Sie müssen sich daher die Version hier (-> https://github.com/tobifischer/PRIMA_AbgabeSoSe21) herunterladen um das Spiel zu Testen
+* https://tobifischer.github.io/PRIMA_AbgabeSoSe21/Golf/Golf.html hier kann man das Spiel ausprobieren
 
 ## - Spielanleitung -
 * Steuerung:
