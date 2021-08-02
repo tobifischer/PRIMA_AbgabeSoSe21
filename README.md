@@ -3,56 +3,6 @@ Repository for the module "Prototyping interactive media-applications and games"
 
 [Pages-Version](https://jirkadelloro.github.io/Prima/)
 
-- [PONG](https://jirkadelloro.github.io/Prima/W19/L06_PongFinal/Main.html)
-- [CRAFTRIS](https://jirkadelloro.github.io/Prima/W19/L13_Craftris)
-
-
-## Checkliste für Leistungsnachweis
-© Prof. Dipl.-Ing. Jirka R. Dell'Oro-Friedl, HFU
-
-| Nr | Bezeichnung           | Inhalt                                                                                                                                                                                                                                                                         |
-|---:|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    | Titel                 |
-|    | Name                  |
-|    | Matrikelnummer        |
-|  1 | Nutzerinteraktion     | Der Nutzer kann mit der Applikation interagieren. Mit welchen Mitteln und welchen Aktionen werden welche Reaktionen ausgelöst?                                                                                                                                                 |
-|  2 | Objektinteraktion     | Mit Hilfe von Kollisionsprüfung interagieren Objekte miteinander. Wann passiert dabei wie was?                                                                                                                                                                                 |
-|  3 | Objektanzahl variabel | Eine variable Anzahl von Objekten wird zur Laufzeit generiert. Welche sind dies und wann und wie geschieht die Erzeugung?                                                                                                                                                      |
-|  4 | Szenenhierarchie      | Die Szenenhierarchie ist sinnvoll aufgebaut. Wer ist wessen Parent, wie sind Elemente in anderen gruppiert und warum?                                                                                                                                                          |
-|  5 | Sound                 | Sounds sind eingebunden und unterstützen oder ermöglichen die Wahrnehmung der Aktionen. Welche Ereignisse werden durch Geräusche akustisch unterstützt, und durch welche Geräuschkulisse oder Musik die Atmosphäre?                                                            |
-|  6 | GUI                   | Ein grafisches Interface gibt dem Nutzer die Möglichkeit, Einstellungen beim Programmstart oder während des Programmlaufs vorzunehmen. Was kann er dort tun?                                                                                   |
-|  7 | Externe Daten         | Spielparameter sind extern in einer Datei veränderbar, so dass das Spiel nur neu gestartet, aber nicht neu kompiliert werden muss. Welche Parameter sind dies und was sind die Auswirkungen?                                                                                   |
-|  8 | Verhaltensklassen     | Das Verhalten von Objekten ist in den Methoden von Klassen definiert, die in externen Dateien abgelegt sind. Welche Klassen sind dies und welches Verhalten wird dort beschrieben?                                                                                             |
-|  9 | Subklassen            | Es existiert eine Klassenhierarchie, einige Objekte sind Instanzen von einer oder mehreren abgeleiteten Subklassen mit gegenüber den anderen Objekten speziellem Verhalten und besonderen Eigenschaften. Welche Klassen sind dies und welches Verhalten wird dort beschrieben? |
-| 10 | Maße & Positionen     | Maße, Skala und Positionen sind gut durchdacht. Wie groß sind Spielfiguren, wie ist die Welt angeordnet bezogen auf den Ursprung, wie sind Spielelemente bezogen auf ihre lokalen Koordinatensysteme definiert?                                                                |
-| 11 | Event-System          | Das Event-System wird verwendet. Wer sendet wem Informationen oder Methodenaufrufe und wofür?                                                                                                                                                                                  |
-
-## Abgabeformat
-* Fasse die Konzeption als ein wohlformatiertes Designdokument in PDF zusammen!
-* Platziere einen Link in der Readme-Datei deines PRIMA-Repositories auf Github auf die fertige und in Github-Pages lauffähige Anwendung.
-* Platziere ebenso Links zu den Stellen in deinem Repository, an denen der Quellcode und das Designdokument zu finden sind.
-* Stelle zudem auf diese Art dort auch ein gepacktes Archiv zur Verfügung, welches folgende Daten enthält
-  * Das Designdokument 
-  * Die Projektordner inklusive aller erforderlichen Dateien, also auch Bild- und Audiodaten
-  * Eine kurze Anleitung zur Installation der Anwendung unter Berücksichtigung erforderlicher Dienste (z.B. Heroku, MongoDB etc.) 
-  * Eine kurze Anleitung zur Interaktion mit der Anwendung
-
-## GameZone
-Wenn Du dein Spiel bei der Dauerausstellung "GameZone" am Tag der Medien sehen möchtest, ergänze folgendes  
-* Einen Ordner mit zwei Screenshots der laufenden Applikation in den Größen 250x100 und 1920x400 pixel sowie ein Textdokument mit den Informationen:
-* Titel
-* Autor
-* Jahr und Semester der Entwicklung (Sose, Wise)
-* Studiensemester
-* Lehrplansemester
-* Studiengang
-* Veranstaltung im Rahmen derer die Entwicklung durchgeführt wurde
-* betreuender Dozent
-* Genre des Spiels
-* ggf. passende Tags/ Schlagwörter zu dem Spiel
-* Untertitel (max 40 Zeichen), der Menschen zum Spielen animiert
-* Kurzbeschreibung (max 250 Zeichen), die kurz erklärt wie zu spielen ist
-* Erklärung, dass die Fakultät Digitale Medien die Anwendung bei Veranstaltungen, insbesondere am Tag der Medien, mit einem expliziten Verweis auf den Autor, vorführen darf.
 
 ## Meine Abgabe
 * Meine Abgabe ist ein Golf-Spiel basierend auf dem erfolgreichen Spiel "Golf with your friends" und ist [HIER](https://github.com/tobifischer/PRIMA_AbgabeSoSe21) zu finden.
@@ -70,3 +20,23 @@ Wenn Du dein Spiel bei der Dauerausstellung "GameZone" am Tag der Medien sehen m
 
 ## Ziel:
 * Ziel des Spiels ist es mit so wenig Schlaegen wie moeglich das Ziel zu erreichen.
+
+## Checkliste für Leistungsnachweis
+© Prof. Dipl.-Ing. Jirka R. Dell'Oro-Friedl, HFU
+
+| Nr | Bezeichnung           | Inhalt                                                                                                                                                                                                                                                                         |
+|---:|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Titel                 | Golf
+|    | Name                  | Fischer, Tobias
+|    | Matrikelnummer        | 262145
+|  1 | Nutzerinteraktion     | Der Nutzer kann mit der Applikation via Maus und Tastatur interagieren. Die Kamerarotation erfolgt durch das Bewegen der Maus und die Schusskraft lädt sich durch das Drücken der W-Taste auf.                                                                                                                                                 |
+|  2 | Objektinteraktion     | Mit Hilfe von Kollisionsprüfung interagieren der Ball mit dem Ziel. Hier wird sobald der Collider des Balls den Collider des Ziels berührt der Schriftzug "Gewonnen" angezeigt. Ebenso besitzt der Boden, die Wände und die Hindernisse natürlich einen Collider der undurchlässig für den Collider des Balls ist.                                                                                                                                                                                  |
+|  3 | Objektanzahl variabel | Der Nutzer kann eine variable Anzahl von Objekten einsammeln die zur Laufzeit generiert werden. Diese geben Extra-Punkte. (Leider war dieses Feature aus zeitlichen Gründen nicht implementierbar und wird eventuell in der Zukunft hinzugefügt)                                                                                                                                                      |
+|  4 | Szenenhierarchie      | Die Szenenhierarchie ist so aufgebaut, dass es den Haupt-Knoten gibt unter dem sich dann zwei weitere Knoten, "Node_Ball" und "Node_Enviroment", befinden. Da sich die Kamera um den Ball dreht befindet diese sich in dem Knoten "Node_Ball". Alle Level-Bestandteile wie die Wände, Hindernisse und das Ziel befinden sich unter dem Knoten "Node_Enviroment".                                                                                                                                                         |
+|  5 | Sound                 | Es läuft im Hintergrund eine sich wiederholende Hintergrundmusik, es gibt einen Ton für die Schläge und das Aufsammeln von Extra-Punkten. (Leider war dieses Feature aus zeitlichen Gründen nicht implementierbar und wird eventuell in der Zukunft hinzugefügt)                                                            |
+|  6 | GUI                   | Ein grafisches Interface zeigt dem Nutzer eine knappe Spielanleitung, die aktuelle Anzahl der Schläge und die Kraft die der Nutzer beim Drücken der W-Taste auflädt. Sobald der Nutzer mit dem Ball durch das Ziel kommt wird diesem der Schriftzug "Gewonnen" angezeigt.                                                                                  |
+|  7 | Externe Daten         | Nachdem der Nutzer das erste Level geschafft hat wird dieser Erfolg in einer JSON gespeichert sodass der Nutzer beim erneuten Starten des Spiels in ein anderes Level oder eine schwierigere Version des bereits gespielten Levels startet. (Leider war dieses Feature aus zeitlichen Gründen nicht implementierbar und wird eventuell in der Zukunft hinzugefügt)                                                                                 |
+|  8 | Verhaltensklassen     | Der Schlag um den Ball zu bewegen kann erst wieder aufgeladen werden sobald der Ball komplett still steht.                                                                                            |
+|  9 | Subklassen            | Die Kamera ist ein Unter-Objekt des Balls da sich diese um den Ball rotieren soll. |
+| 10 | Maße & Positionen     | Der Ball ist bei mir die Maßeinheit 1. Daran habe ich alle anderen Objekte orientiert.                                                            |
+| 11 | Event-System          | Das Event-System verwende ich für Kamerasteuerung mit der Maus, das Aufladen den Schusses mit der Tastatur und das "Maus-Lock"-System. Im Großen und Ganzen werden alle Inputs des Nutzers über das Event-System verarbeitet.                                                                                                                                                                                  |
